@@ -52,7 +52,7 @@ function getWinner(player, computer) {
         }
     }
 }
-// showWinner - Dispalying both choices and showing winner along with incrementing scoreboard
+// showWinner - Displaying both choices and showing winner along with incrementing scoreboard
 function showWinner(winner,playerChoice,computerChoice){
     if (winner === 'player') {
         // Inc player score
