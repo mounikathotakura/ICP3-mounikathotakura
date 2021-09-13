@@ -24,7 +24,7 @@ body {
     border: 1px solid black;
     border-radius: 15px;
     padding: 5px;
-    background-color: #47ffff;
+    background-color: #36ffff;
     color: black;
 }
 
@@ -47,7 +47,7 @@ a.detail-btn {
     color: #747704;
 }
 .col h3 {
-    color: #bcbbbb;
+    color: #eccdde;
 }
 
 .image-heading {

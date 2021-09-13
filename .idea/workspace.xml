@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e651b949-4bae-4be3-8155-a47c1f47ed7a" name="Changes" comment="added styles">
-      <change afterPath="$PROJECT_DIR$/Source code/Task-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source code/Task-2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source code/Task-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Source code/Task-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source code/Task-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Source code/Task-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source code/Task-2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source code/Task-2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -52,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631302521723</updated>
       <workItem from="1631302524239" duration="713000" />
-      <workItem from="1631417355434" duration="12922000" />
+      <workItem from="1631417355434" duration="18203000" />
     </task>
     <task id="LOCAL-00001" summary="added js">
       <created>1631418597742</created>
